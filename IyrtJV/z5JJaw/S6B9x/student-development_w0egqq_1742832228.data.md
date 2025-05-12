@@ -43,7 +43,6 @@ Jedes Semester tragen Student*innen im Rahmen des Android Praktikums einiges daz
 + Anas Chakfeh
 + Thomas Krex
 + Marius Muntean
-+ Christoph Richter
 + Thomas Bley
 + Vincenz Dölle
 + Daniel Mayr
