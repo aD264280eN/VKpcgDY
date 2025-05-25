@@ -9,7 +9,6 @@ dist/
 # delve debug binaries
 cmd/**/debug
 debug.test
-coverage.out
 ui/node_modules/
 test-results/
 test/
