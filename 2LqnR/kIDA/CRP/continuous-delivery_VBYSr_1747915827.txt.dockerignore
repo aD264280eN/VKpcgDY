@@ -18,7 +18,6 @@ docs/
 examples/
 .github/
 !test/container
-!test/e2e/testdata
 !test/fixture
 !test/remote
 !hack/installers
